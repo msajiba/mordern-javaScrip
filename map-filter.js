@@ -4,7 +4,7 @@ const numbers = [3,4,5,6,7,8];
 //map ===========================>
 
 const output =numbers.map(x=> x*x)
-console.log(output);  // full array dibe
+console.log(output);  // full array 
 
 
 //filter ===========================>
